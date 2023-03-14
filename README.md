@@ -1,4 +1,4 @@
-# ray-tracing-iow
+# Ray Tracing in One Weekend
 Code exercises for Pete Shirley’s “Ray Tracing in One Weekend”
 
 ### Build
