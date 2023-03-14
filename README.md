@@ -8,3 +8,11 @@ cd build
 cmake ..
 make
 ```
+
+### Run
+
+The image `convert` program is provided by **ImageMagick**.
+```
+./ray-tracer-main > image.ppm
+convert image.ppm image.png
+```
